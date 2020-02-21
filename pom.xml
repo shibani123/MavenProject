@@ -12,8 +12,8 @@
 	<artifactId>aciwebapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>aciwebapp</name>
-	<description>ACI Web App Jenkins</description>
-
+	<description>Web Application for Jenkins Deployment</description>
+	<packaging>war</packaging>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
